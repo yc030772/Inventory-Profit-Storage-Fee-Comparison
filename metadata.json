@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Profit & Storage Fee Comparison",
+  "description": "A sophisticated inventory management tool that simulates stepped storage costs and compares profitability across different order frequencies using a multi-month projection logic.",
+  "requestFramePermissions": []
+}
